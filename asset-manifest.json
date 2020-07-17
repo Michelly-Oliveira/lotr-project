@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/lotr-project/static/js/main.af8e77f7.chunk.js",
+    "main.js.map": "/lotr-project/static/js/main.af8e77f7.chunk.js.map",
+    "runtime-main.js": "/lotr-project/static/js/runtime-main.f0acc270.js",
+    "runtime-main.js.map": "/lotr-project/static/js/runtime-main.f0acc270.js.map",
+    "static/js/2.4ec43142.chunk.js": "/lotr-project/static/js/2.4ec43142.chunk.js",
+    "static/js/2.4ec43142.chunk.js.map": "/lotr-project/static/js/2.4ec43142.chunk.js.map",
+    "index.html": "/lotr-project/index.html",
+    "precache-manifest.75ea5935b1c614956e33e8ec20cf8c22.js": "/lotr-project/precache-manifest.75ea5935b1c614956e33e8ec20cf8c22.js",
+    "service-worker.js": "/lotr-project/service-worker.js",
+    "static/js/2.4ec43142.chunk.js.LICENSE.txt": "/lotr-project/static/js/2.4ec43142.chunk.js.LICENSE.txt",
+    "static/media/loadingRing.gif": "/lotr-project/static/media/loadingRing.753b5e52.gif",
+    "static/media/logo.png": "/lotr-project/static/media/logo.d265f318.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f0acc270.js",
+    "static/js/2.4ec43142.chunk.js",
+    "static/js/main.af8e77f7.chunk.js"
+  ]
+}
