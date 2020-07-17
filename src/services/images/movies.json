@@ -1,0 +1,26 @@
+[
+  {
+    "name": "The Fellowship of the Ring",
+    "image_url": "https://vignette.wikia.nocookie.net/lotr/images/7/74/LOTRFOTRmovie.jpg/revision/latest?cb=20150203040819"
+  },
+  {
+    "name": "The Two Towers ",
+    "image_url": "https://vignette.wikia.nocookie.net/lotr/images/9/98/The_two_tower.jpg/revision/latest?cb=20150203041214"
+  },
+  {
+    "name": "The Return of the King",
+    "image_url": "https://vignette.wikia.nocookie.net/lotr/images/b/ba/Rie.jpg/revision/latest?cb=20150203041337"
+  },
+  {
+    "name": "The Unexpected Journey",
+    "image_url": "https://vignette.wikia.nocookie.net/lotr/images/8/8e/The_Hobbit_wallpaper_7.jpg/revision/latest?cb=20150202052442"
+  },
+  {
+    "name": "The Desolation of Smaug",
+    "image_url": "https://vignette.wikia.nocookie.net/lotr/images/4/42/Hobbit_the_desolation_of_smaug_ver15_xlg.jpg/revision/latest?cb=20150202052543"
+  },
+  {
+    "name": "The Battle of the Five Armies",
+    "image_url": "https://vignette.wikia.nocookie.net/lotr/images/0/03/Bilbo_BOT5A_Poster_2.jpg/revision/latest?cb=20200503021514"
+  }
+]
