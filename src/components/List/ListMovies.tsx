@@ -22,8 +22,6 @@ const ListMovies: React.FC = () => {
 
   useEffect(() => {
     async function loadMoviesData(): Promise<void> {
-      setIsLoading(true);
-
       const response = await api.get('/movie');
       const moviesData = response.data.docs;
 

@@ -24,8 +24,6 @@ const ListCharacters: React.FC = () => {
 
   useEffect(() => {
     async function loadCharactersData(): Promise<void> {
-      setIsLoading(true);
-
       const response = await api.get('/character');
       const charactersData = response.data.docs;
 

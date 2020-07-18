@@ -19,8 +19,6 @@ const ListBooks: React.FC = () => {
 
   useEffect(() => {
     async function loadBooksData(): Promise<void> {
-      setIsLoading(true);
-
       const response = await api.get('/book');
       const booksData = response.data.docs;
 
